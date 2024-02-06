@@ -5,9 +5,14 @@ O OddsCombinator é um conjunto de scripts em Python que permite gerar combinaç
 
 ## Como Usar
 1. Clone o repositório OddsCombinator.
-2. Instale as dependências necessárias executando o seguinte comando:
+2. Para usar o scripts, você precisará ter as seguintes bibliotecas Python instaladas:
 
-pip install pandas tkinter
+- pandas
+- tkinter
+
+Você pode instalá-las usando o gerenciador de pacotes pip:
+
+    pip install pandas tkinter
 
 3. Execute o script `odds_combinations_generator.py`.
 4. Insira as odds desejadas nos campos de entrada.
